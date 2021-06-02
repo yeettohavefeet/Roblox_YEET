@@ -1,0 +1,27 @@
+body {
+    padding-left: 50;
+    padding-right: 50;
+    padding-top: 100px;
+    color: gold;
+    background: black;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    border-radius: 50px;
+}
+
+.div {
+    height: 4px;
+    width: 100px;
+    margin: 8px auto;
+    background-color: black;
+    text-align: center;
+}
+
+#para1 {
+    font-size: 25px;
+    text-align: center;
+}
